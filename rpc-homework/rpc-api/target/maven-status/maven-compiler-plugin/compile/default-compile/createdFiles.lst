@@ -1,0 +1,6 @@
+com\lemon\gp\common\Constant.class
+com\lemon\gp\common\RpcRequest.class
+com\lemon\gp\service\IHelloService.class
+com\lemon\gp\anntation\Service.class
+com\lemon\gp\common\ServiceDefintion.class
+com\lemon\gp\common\RpcResponse.class
